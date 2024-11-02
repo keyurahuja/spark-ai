@@ -1,5 +1,5 @@
 # Spark AI
-A comprehensive repository of prompts tailored for leveraging AI in understanding and applying Alice Bailey's wisdom to solve humanity's problems!
+Leveraging AI in understanding and applying Alice Bailey's wisdom to solve humanity's problems!
 
 ## 🚀 About Me
 I'm Keyur Ahuja, an author and entrepreneur. I have written 2 books and launched 10 startups till now. You can learn more by visiting my profile.
